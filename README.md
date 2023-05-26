@@ -2,9 +2,6 @@
 Analysis of data on missing migrants en route to the U.S.
 
 ## Directory Structure
----
-
-## Directory Structure
 ```
 |- .gitignore              # Customized .gitignore for python projects
 |- LICENSE                 # Project's license
