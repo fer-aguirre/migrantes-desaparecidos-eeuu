@@ -11,6 +11,10 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 pdftotext = "*"
+timm = "*"
+torch = "*"
+matplotlib = "*"
+transformers = "*"
 
 [dev-packages]
 
